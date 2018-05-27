@@ -1,0 +1,17 @@
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\bin\Debug\CompanyDB.mdf
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\bin\Debug\CompanyDB_log.ldf
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\bin\Debug\LinqToSqlProject.exe.config
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\bin\Debug\LinqToSqlProject.exe
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\bin\Debug\LinqToSqlProject.pdb
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\obj\Debug\LinqToSqlProject.csprojAssemblyReference.cache
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\obj\Debug\LinqToSqlProject.Form1.resources
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\obj\Debug\LinqToSqlProject.Properties.Resources.resources
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\obj\Debug\LinqToSqlProject.csproj.GenerateResource.cache
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\obj\Debug\LinqToSqlProject.csproj.CoreCompileInputs.cache
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\obj\Debug\LinqToSqlProject.exe
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\obj\Debug\LinqToSqlProject.pdb
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\obj\Debug\LinqToSqlProject.Form2.resources
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\obj\Debug\LinqToSqlProject.Form3.resources
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\obj\Debug\LinqToSqlProject.Form4.resources
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\obj\Debug\LinqToSqlProject.Form5.resources
+C:\projects\CSharp\LinqToSqlProject\LinqToSqlProject\obj\Debug\LinqToSqlProject.Form6.resources
