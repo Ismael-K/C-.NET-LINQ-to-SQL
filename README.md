@@ -16,3 +16,4 @@ This application is for managing employee data in a SQL Server.
 
 Object Relational Mapping is used by the OR Designer tool to convert all relational database objects into object-oriented types.  Windows Forms Applications are constructed for the user to interact with the database and to perform the create, read, update, and delete operations.  
 
+<a href="https://imgflip.com/gif/2b4m7q"><img src="https://i.imgflip.com/2b4m7q.gif" title="made at imgflip.com"/></a>
