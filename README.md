@@ -1,7 +1,7 @@
 # CSharp-.NET-LINQ-to-SQL
 LINQ to  SQL for relational databases
 
-LinktoSqlProject is a Windows Forms Applications Project in the .NET Framework written in C#. 
+LinqtoSqlProject is a Windows Forms Applications Project in the .NET Framework written in C#. 
 Data is managed using language-integrated query (LINQ) because there is support for compile-time syntax checking and IntelliSense.  The LINQ facility is supported in .NET Framework 3.5. 
 
 
